@@ -1,8 +1,8 @@
 let score = 0;
 
 function startQuiz() {
-    const username = localStorage.getItem('username');
-    document.getElementById('usernameDisplay').textContent = username;
+    //const username = localStorage.getItem('username');
+    //document.getElementById('usernameDisplay').textContent = username;
     window.location.href = 'question1.html';
 }
 
