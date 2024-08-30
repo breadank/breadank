@@ -1,1 +1,1 @@
-https://breadank.github.io
+https://breadank.github.io/breadank/
